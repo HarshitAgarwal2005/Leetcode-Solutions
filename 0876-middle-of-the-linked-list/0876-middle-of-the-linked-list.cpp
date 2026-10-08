@@ -17,15 +17,15 @@ public:
             len++;
             temp=temp->next;
         }
-        if(len==1){
-            return head;
-        }
+        // if(len==1){
+        //     return head;
+        // }
         int middleIdx = len/2;
         temp=head;
-        for(int i=1;i<middleIdx;i++){
+        for(int i=1;i<=middleIdx;i++){
             temp=temp->next;
         }
         
-        return temp->next;
+        return temp;
     }
 };
