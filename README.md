@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0142-linked-list-cycle-ii/) | Medium |
@@ -16,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0148-sort-list/) | Medium |
