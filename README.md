@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0141-linked-list-cycle/) | Easy |
@@ -37,6 +38,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0148-sort-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -45,5 +47,14 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0148-sort-list/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
