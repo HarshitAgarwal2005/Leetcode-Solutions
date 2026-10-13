@@ -15,6 +15,7 @@
 | [0148-sort-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2326-spiral-matrix-iv](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/2326-spiral-matrix-iv/) | Medium |
@@ -28,6 +29,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0160-intersection-of-two-linked-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0234-palindrome-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +82,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2326-spiral-matrix-iv](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/2326-spiral-matrix-iv/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
