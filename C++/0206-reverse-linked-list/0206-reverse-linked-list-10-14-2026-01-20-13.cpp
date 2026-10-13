@@ -1,0 +1,67 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+class Solution {
+public:
+    // ListNode* getNodeAt(ListNode* head, int idx){ // worst time and space
+    // complexities here (we can say this method is brute force)
+    //     ListNode* temp=head;
+    //     for(int i=1;i<=idx;i++){
+    //         temp=temp->next;
+    //     }
+    //     return temp;
+    // }
+    //     ListNode* reverseList(ListNode* head) {
+    //         ListNode* temp=head;
+    //         int n=0;
+    //         while(temp){
+    //             n++;
+    //             temp=temp->next;
+
+    //         }
+    //         int i=0;
+    //         int j=n-1;
+    //         while(i<j){
+
+    //             ListNode * left= getNodeAt(head,i);
+    //             ListNode * right= getNodeAt(head, j);
+    //             int t=left->val;
+    //             left->val=right->val;
+    //             right->val=t;
+    //             i++;
+    //             j--;
+    //         }
+    //     return head;
+    //     }
+
+    // optimixed code below
+    ListNode* reverseList(ListNode* head) { // prev, curr, next pointers
+        ListNode * prev = NULL;
+        ListNode * curr=head;
+        ListNode* Next= NULL;
+        while(curr!=NULL){
+            Next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=Next;
+        }
+        return prev;
+    }
+    // ListNode* reverseList(ListNode* head) { // recursive soln
+    //         if (head==NULL || head->next==NULL){
+    //             return head;
+    //         }
+    //         ListNode* newhead=reverseList(head->next);
+    //         head->next->next=head;
+    //         head->next=NULL;
+    //         return newhead;
+    // }
+
+};
