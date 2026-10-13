@@ -15,6 +15,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2326-spiral-matrix-iv](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/2326-spiral-matrix-iv/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +63,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0021-merge-two-sorted-lists/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2326-spiral-matrix-iv](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/2326-spiral-matrix-iv/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2326-spiral-matrix-iv](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/2326-spiral-matrix-iv/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2326-spiral-matrix-iv](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/2326-spiral-matrix-iv/) | Medium |
 <!---LeetCode Topics End-->
