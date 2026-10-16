@@ -20,6 +20,7 @@
 | [0234-palindrome-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/2326-spiral-matrix-iv/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
