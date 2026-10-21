@@ -11,6 +11,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0092-reverse-linked-list-ii/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0143-reorder-list/) | Medium |
@@ -40,6 +41,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0160-intersection-of-two-linked-lists/) | Easy |
