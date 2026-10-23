@@ -105,4 +105,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0038-count-and-say](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0038-count-and-say/) | Medium |
 <!---LeetCode Topics End-->
