@@ -80,6 +80,7 @@
 | [0143-reorder-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0234-palindrome-linked-list/) | Easy |
+| [0779-k-th-symbol-in-grammar](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0779-k-th-symbol-in-grammar/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +110,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0038-count-and-say/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0779-k-th-symbol-in-grammar/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0779-k-th-symbol-in-grammar/) | Medium |
 <!---LeetCode Topics End-->
