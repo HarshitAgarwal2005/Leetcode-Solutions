@@ -84,6 +84,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0204-count-primes/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/2326-spiral-matrix-iv/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -113,9 +114,30 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0204-count-primes/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0779-k-th-symbol-in-grammar/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0779-k-th-symbol-in-grammar/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/HarshitAgarwal2005/Leetcode-Solutions/tree/main/C++/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
